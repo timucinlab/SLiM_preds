@@ -12,5 +12,5 @@ Predictions can be accessed: https://zenodo.org/records/19598102
 
 ```text
 ├── data/               # Curated dataset of protein-peptide complexes including sequences
-├── scripts/            # Python notebooks for DockQ evaluation
+├── scripts/            # Python notebooks for DockQ evaluation and score calculation
 ├── results/            # Prediction outputs and confidence scores
