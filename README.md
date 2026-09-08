@@ -1,10 +1,10 @@
-# Systematic Benchmarking of AlphaFold2 and OpenFold3 on Protein–Peptide Complexes
+# Systematic Benchmarking of AlphaFold2, AlphaFold3 and OpenFold3 on Protein–Peptide Complexes
 
-This repository contains the dataset, evaluation scripts, and benchmarking results for AF2 and OpenFold3 predictions of a protein–peptide complexes.
+This repository contains the dataset, evaluation scripts, and benchmarking results for AF2, AF3 and OpenFold3 predictions of a protein–peptide complexes.
 
 ## Overview
 
-Protein–peptide interactions are critical mediators of biological processes, yet structural prediction for these complexes remains challenging. This study provides a comprehensive comparative evaluation of AF2 and OpenFold3 using a curated, non-redundant dataset of 976 protein–peptide complexes. The study specifically evaluates performance under CAPRI peptide criteria, partitioning results into disordered (IDR) and structured (Non-IDR) peptide subsets to understand how conformational flexibility impacts prediction accuracy.
+Protein–peptide interactions are critical mediators of biological processes, yet structural prediction for these complexes remains challenging. This study provides a comprehensive comparative evaluation of AF2, AF3 and OpenFold3 using a curated, non-redundant dataset of 975 protein–peptide complexes. The study specifically evaluates performance under CAPRI peptide criteria, partitioning results into disordered (irregular) and structured (regular) peptide subsets to understand how conformational flexibility impacts prediction accuracy.
 
 AF2 and OF3 predictions can be accessed: https://zenodo.org/records/19598102
 
